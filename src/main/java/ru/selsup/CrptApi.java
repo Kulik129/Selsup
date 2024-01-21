@@ -122,7 +122,7 @@ public class CrptApi {
     @JsonNaming(PropertyNamingStrategies.SnakeCaseStrategy.class)
     public class Product {
         private String certificateDocument;
-        private String certificateDocument_date;
+        private String certificateDocumentDate;
         private String certificateDocumentNumber;
         private String ownerInn;
         private String producerInn;
